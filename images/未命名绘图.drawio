@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T02:25:16.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.4.0" etag="G4X3ydYm-jZcee5ihawO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T02:52:49.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="32N-AcahwXdp186GtbCN" version="21.4.0" type="github">
   <diagram name="第 1 页" id="F919wnhgWzae-JaYDJG2">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SA85010&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;mark DMC, press in axles&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-8" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;SA85022&lt;/b&gt;&lt;br&gt;&lt;/font&gt;Press in needle bearing1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-9" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;SA85041&lt;/b&gt;&lt;br&gt;Assemble torsion spring with TQ into hou&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SA85033&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Press in needle bearing2&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-11" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;SA85050&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Press lever assy to shaft&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-12" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;SA85060&lt;/b&gt;&lt;br&gt;Weld lever assy to shaft&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="790" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-17" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;SA85071&lt;/b&gt;&lt;br&gt;glue&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="940" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-18" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;SA85072&lt;/b&gt;&lt;br&gt;assemble magnet&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-19" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;SA85073&lt;/b&gt;&lt;br&gt;light curing&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NtsKkYMWsxhwqF0oPti-20" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;SA85074&lt;/b&gt;&lt;br&gt;Measure the height of magnet&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
