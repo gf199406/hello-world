@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T01:56:16.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BLHfWc2jlMWsOnl3j0iR" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T01:59:19.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K9UHnS4jM1cm-qzOYLOn" version="21.5.0" type="github">
   <diagram name="第 1 页" id="F919wnhgWzae-JaYDJG2">
     <mxGraphModel dx="2537" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -583,8 +583,8 @@
         <mxCell id="xhWmyl7iNYJmXMCpD9-6-33" value="&lt;b&gt;SA86031&lt;/b&gt;&lt;br&gt;Cover sealing assembly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="870" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xhWmyl7iNYJmXMCpD9-6-36" value="AAA2043710000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="870" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="xhWmyl7iNYJmXMCpD9-6-36" value="&lt;div&gt;A2C96223800&lt;/div&gt;&lt;div&gt;A2C19228400&lt;/div&gt;&lt;div&gt;AAA2043710000&lt;/div&gt;&lt;div&gt;AAA2043740000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="860" y="310" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xhWmyl7iNYJmXMCpD9-6-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.998;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
